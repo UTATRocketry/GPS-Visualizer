@@ -17,5 +17,6 @@ Visualize the trajectory of rocket in 3D space using CesiumJS.
 
 ## Depenencies
 If you are using Node.js or another server-side platform, you'll have dependencies. For Node.js, for example:
--express: For setting up the web server.
--socket.io: If you're pushing live updates to the client.
+
+- express: For setting up the web server.
+- socket.io: If you're pushing live updates to the client.
