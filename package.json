@@ -1,16 +1,23 @@
 {
   "name": "gps-visualizer",
   "version": "1.0.0",
-  "description": "",
+  "description": "Visualize the trajectory of rocket in 3D space using CesiumJS.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UTATRocketry/GPS-Visualizer.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UTATRocketry/GPS-Visualizer/issues"
+  },
+  "homepage": "https://github.com/UTATRocketry/GPS-Visualizer#readme",
   "dependencies": {
-    "express": "^4.18.2",
-    "socket.io": "^4.7.2"
+    "cesium": "^1.108.0"
   }
 }
